@@ -1,0 +1,16 @@
+# data (re-download from insideairbnb.com, see README)
+data/
+
+# virtual environment
+.venv/
+venv/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
