@@ -153,9 +153,9 @@ should be presented as one tool among several, not as an affordability solution 
 2. Save them as `data/nyc_listings.csv.gz`, `data/dallas_listings.csv.gz`,
    `data/nyc_neighbourhoods.geojson`, and `data/dallas_neighbourhoods.geojson`.
 3. Run `pip install -r requirements.txt`.
-4. Open `whose_city_is_it.py` and run it from top to bottom.
+4. Open `whose_city_is_it.ipynb` and run it from top to bottom.
 
-**Repo contents:** `whose_city_is_it.py` (the analysis, written as a notebook),
+**Repo contents:** `whose_city_is_it.ipynb` (the analysis notebook with outputs),
 `map_nyc.html` and `map_dallas.html` (interactive maps), `supply_mix.png` (chart),
 `requirements.txt`. The raw `data/` files are not committed; re-download them with the steps
 above.
